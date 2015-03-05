@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="0.18">
+<dict>
+	<key>items</key>
+	<array>
+		<dict>
+			<key>assets</key>
+			<array>
+				<dict>
+					<key>kind</key>
+					<string>software-package</string>
+					<key>url</key>
+					<string>http://61.130.144.183/client/GameUpdateCommonIOS/zxy_commonIOS_base_0_18.ipa</string>
+				</dict>
+	          <dict>
+	            <key>kind</key>
+	            <string>full-size-image</string>
+	            <key>needs-shine</key>
+	            <false/>
+	            <key>url</key>
+	            <string>http://61.130.144.183/client/GameUpdateCommonIOS/icon/fullsiezeimage.png</string>
+	          </dict>
+	          <dict>
+	            <key>kind</key>
+	            <string>display-image</string>
+	            <key>needs-shine</key>
+	            <false/>
+	            <key>url</key>
+	            <string>http://61.130.144.183/client/GameUpdateCommonIOS/icon/displayimage.png</string>
+	          </dict>
+			</array>
+			<key>metadata</key>
+			<dict>
+				<key>bundle-identifier</key>
+				<string>com.37wan.zxy</string>
+				<key>kind</key>
+				<string>software</string>
+				<key>title</key>
+				<string>唐僧大战女儿国</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>
